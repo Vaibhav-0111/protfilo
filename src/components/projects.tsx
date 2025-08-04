@@ -23,7 +23,7 @@ const projects = [
     description: 'A powerful AI-driven branding assistant tailored for automotive startups and companies.',
     html_url: 'https://github.com/Vaibhav-0111/AutoBrandAI',
     stargazers_count: 18,
-    topics: [Python, AI, Branding, GenAI, Marketing, NLP, Startup Tools],
+    topics: ['Python', 'AI', 'Branding', 'GenAI', 'Marketing', 'NLP', 'Startup Tool's],
     image: 'https://drive.google.com/file/d/1cISlW4vjdvc4HDH91LE1QjGKzZQtEHUC/view?usp=sharing',
   },
   {
@@ -32,7 +32,7 @@ const projects = [
     description: 'A powerful Streamlit-based web application designed to analyze SARS-CoV-2 genomic data. ',
     html_url: 'https://github.com/Vaibhav-0111/COVID-19-Detection-Analyzer',
     stargazers_count: 32,
-    topics: [Python, Deep Learning, CNN, Medical Imaging, COVID-19, AI],
+    topics: ['Python', 'Deep Learning', 'CNN', 'Medical Imaging', 'COVID-19', 'AI'],
     image: 'https://drive.google.com/file/d/1AAhTqazHvQm1pYaetoizayFpisbb3AcD/view?usp=sharing',
   },
   {
