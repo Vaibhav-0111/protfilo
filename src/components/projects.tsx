@@ -23,7 +23,7 @@ const projects = [
     description: 'A powerful AI-driven branding assistant tailored for automotive startups and companies.',
     html_url: 'https://github.com/Vaibhav-0111/AutoBrandAI',
     stargazers_count: 18,
-    topics: ['Python', 'AI', 'Branding', 'GenAI', 'Marketing', 'NLP', 'Startup Tool's],
+    topics: ['Python', 'AI', 'Branding', 'GenAI', 'Marketing', 'NLP', 'Startup Tools'],
     image: 'https://drive.google.com/file/d/1cISlW4vjdvc4HDH91LE1QjGKzZQtEHUC/view?usp=sharing',
   },
   {
